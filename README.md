@@ -6,9 +6,28 @@ This project demonstrates core frontend development concepts including DOM manip
 ---
 
 ## 🚀 Live Demo
-https://deepanshudevsinghal-debug.github.io/Tic-Tac-Toe/
+ https://deepanshudevsinghal.github.io/Tic-Tac-Toe/
 
----
+----
+
+ ## 🚀 Github Repository
+
+ Project Source Code :
+ https://github.com/deepanshudevsinghal/Tic-Tac-Toe.git
+
+----
+
+## 🚀 Screenshots
+
+## 📸 Game Preview
+
+![Game UI](Tic-Tac-Toe-screenshot(1).png)
+
+## 🏆 Winning State
+
+![Winning Screenshot](Tic-Tac-Toe-screenshot(2).png)
+
+----
 
 ## 📌 Features
 
